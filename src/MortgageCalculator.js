@@ -18,6 +18,7 @@ const DefaultInsuranceRate = 0.0014;
 const DefaultMortgageInsuranceRate = 0.011;
 const DefaultDownPaymentPercent = 0.2;
 const DefaultAdditionalPrincipalPayment = 0;
+const DefaultCurrency = '$';
 
 const ValidTermMonths = [60, 120, 180, 240, 360];
 
